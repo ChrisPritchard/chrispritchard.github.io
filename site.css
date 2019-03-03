@@ -4,3 +4,15 @@ body {
     background-color: black;
     text-align: center;
 }
+
+div.person {
+    float:left;
+}
+
+div.person img {
+    width: 300px;
+}
+
+div.clear {
+    clear: both;
+}
