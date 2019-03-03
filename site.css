@@ -5,6 +5,19 @@ body {
     text-align: center;
 }
 
+h1, h2 {
+    text-shadow: 0px 2px 2px white;
+}
+
+a, a:visited {
+    color: White;
+    text-shadow: 0px 2px 2px white;
+}
+
+img.logo {
+    width: 400px;
+}
+
 div.person-container {
     margin-left: auto;
     margin-right: auto;
