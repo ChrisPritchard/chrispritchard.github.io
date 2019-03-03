@@ -5,12 +5,19 @@ body {
     text-align: center;
 }
 
+div.person-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
 div.person {
     float:left;
+    width: 400px;
 }
 
 div.person img {
-    width: 150px;
+    width: 250px;
 }
 
 div.clear {
