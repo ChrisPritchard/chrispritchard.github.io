@@ -51,31 +51,29 @@ a, a:visited {
     color: #555;
 }
 
-img.logo {
-    width: 400px;
-}
-
-div.skills {
+div.introduction {
     text-align: justify;
-    width: 400px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 1em;
 }
 
-div.person {
+h3 {
+    margin-top: 0;
+}
+
+div.column {
     float:left;
     width: 400px;
 }
 
-div.person img {
-    width: 180px;
-}
-
-div.person span {
-    display: block;
-    font-style: italic;
-    font-size: 0.8em;
+div.skills {
+    text-align: justify;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
 }
 
 div.clear {
